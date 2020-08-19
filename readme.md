@@ -2,7 +2,7 @@
 
 This document is formatted in MarkDown. Use a compatible IDE or Editor such as IntelliJ or Visual Studio code to read the document more easily.
 
-## INTERVIEW QUESIONS
+## INTERVIEW QUESTIONS
 
 * [Shopping Basket](shopping_basket/assignment.md)
 * [Pokemon API](pokemon_api/assignment.md)
@@ -35,7 +35,7 @@ Please begin this exercise by forking the repo into your personal GitHub workspa
 
 ### Use the right language
 
-Your work should be implemented in Python 3, JavaScript or TypeScript unless the question directs otherwise. If you considering using any other language, please check with ECS first. Your solution may be rejected if we do not have enough people familiar with your chosen language.
+Your work should be implemented in Python 3, JavaScript or TypeScript unless the question directs otherwise. If you are considering using any other language, please check with ECS first. Your solution may be rejected if we do not have enough people familiar with your chosen language.
 
 ### Test your code
 
@@ -43,7 +43,7 @@ We consider tests very important and practice test driven development. We want t
 
 ### Don't spend to long
 
-There is no time-limit on this work, however want to respect your time. These questions are deliberately open-ended but have been designed to be achievable within 1-3 hours. Also, remember that since we will be reviewing your code, we don't have time to carefully review a very big submission.
+There is no time-limit on this work, however we want to respect your time. These questions are deliberately open-ended but have been designed to be achievable within 1-3 hours. Also, remember that since we will be reviewing your code, we don't have time to carefully review a very big submission.
 
 ### Include everything we need
 
