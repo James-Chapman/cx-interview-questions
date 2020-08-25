@@ -49,8 +49,6 @@ There is no time-limit on this work, however we want to respect your time. These
 
 Please ensure that your submission includes all of the instructions and scripts required to build your project. If your project requires dependencies please include an appropriate method to resolve those dependencies like a Pipfile, requirements.txt or whatever solution is appropriate to your chosen platform.
 
-Please ensure that your submission includes all of the instructions and scripts required to build your project. If your project requires dependencies please include an appropriate method to resolve those dependencies like a Pipfile, requirements.txt or whatever solution is appropriate to your chosen platform.
-
 ### Bonus questions are optional
 
 Bonus questions are suggestions for further work. You will not be penalized if you do not attempt the bonus questions. We would rather see an excellent implementation of the base question than a less effective implementation of base + bonus.

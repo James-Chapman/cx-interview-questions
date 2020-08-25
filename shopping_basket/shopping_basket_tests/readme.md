@@ -1,3 +1,5 @@
 ## Tests
 
-Please put your tests in this directory.
+Requires `pytest` module.
+
+change directory to `cx-interview-questions/shopping_basket/shopping_basket_tests` and run `pytest -v`
